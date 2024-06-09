@@ -1,0 +1,8 @@
+name: PlayerTracker
+version: 1.0
+main: lol.yakut.playertracker.PlayerTracker
+api-version: 1.8
+commands:
+  track:
+    description: Track a player's location using a compass
+    usage: /track <playername>
