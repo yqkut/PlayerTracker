@@ -4,6 +4,6 @@ a plugin for version 1.8 where u can find the players with a compass
 
 # Usage:
 
-/track - when you use this command, a menu opens and you can track a player by selecting a player from this menu.
+/track - when u use this cmd, a gui opens and u can track a player by selecting a player from this gui.
 
-/track (nickname) - when you use this command you can have a compass directly pointing to the player you want to track.
+/track (nickname) - when u use this cmd u can have a compass directly pointing to the player you want to track.
